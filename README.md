@@ -63,15 +63,14 @@ I also became more comfortable building responsive UIs.
   <h1>A history of everything you copy</h1>
 </section>
 css
-
+نسخ الكود
 .btn {
   padding: 12px 30px;
   border-radius: 30px;
   transition: .3s ease;
 }
-
 js
-
+نسخ الكود
 console.log("Clipboard Landing Page Loaded!");
 Continued development
 I want to continue improving in:
