@@ -72,7 +72,8 @@ css
 js
 نسخ الكود
 console.log("Clipboard Landing Page Loaded!");
-Continued development
+
+### Continued development
 I want to continue improving in:
 
 Advanced CSS responsiveness
@@ -81,14 +82,14 @@ Clean component structure
 
 Animations and UI interactions
 
-Useful resources
+### Useful resources
 https://developer.mozilla.org/
 
 https://www.markdownguide.org/
 
 https://flexboxfroggy.com/
 
-Author
+## Author
 Name: mohamed rashwan
 
 GitHub: https://github.com/mohamedrashwann
