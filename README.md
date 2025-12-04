@@ -64,7 +64,6 @@ I also became more comfortable building responsive UIs.
 </section>
 ```
 ```css
-نسخ الكود
 .btn {
   padding: 12px 30px;
   border-radius: 30px;
@@ -72,7 +71,6 @@ I also became more comfortable building responsive UIs.
 }
 ```
 ```js
-نسخ الكود
 console.log("Clipboard Landing Page Loaded!");
 ```
 ### Continued development
