@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![https://github.com/mohamedrashwann/Clipboard-Landing-Page/blob/main/preview.jpg](./screenshot.jpg)
 
 ---
 
