@@ -1,0 +1,161 @@
+  :root {
+    --cyan: #26baa4;
+    --blue: #6173ff;
+    --gray: #9fabb2;
+    --dark: #4c545d;
+    --font: "Bai Jamjuree", sans-serif;
+  }
+
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: var(--font);
+  }
+
+  body {
+    text-align: center;
+    color: var(--dark);
+    line-height: 1.6;
+  }
+
+  .hero {
+    background: url(/images/bg-header-desktop.png) no-repeat top center/cover;
+    padding: 100px 20px;
+  }
+
+  .logo {
+    margin-bottom: 40px;
+  }
+
+  h1, h2, h3 {
+    font-weight: 600;
+    margin-bottom: 15px;
+  }
+
+  p {
+    color: var(--gray);
+    max-width: 600px;
+    margin: auto;
+  }
+
+  .btn-group {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+  }
+
+  .btn {
+    color: #fff;
+    padding: 12px 30px;
+    border-radius: 30px;
+    font-weight: 600;
+    text-decoration: none;
+    display: inline-block;
+  }
+
+  .ios {
+    background: var(--cyan);
+  }
+
+  .mac {
+    background: var(--blue);
+  }
+
+  section {
+    padding: 110px 20px;
+  }
+
+  .sub {
+    max-width: 650px;
+    margin: 20px auto 60px;
+  }
+
+  .snip-content {
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    align-items: center;
+  }
+
+  .snip-content img {
+    width: 500px;
+  }
+
+  .snip-content ul {
+    text-align: left;
+    max-width: 350px;
+  }
+
+  .snip-content li {
+    margin-bottom: 35px;
+  }
+
+  .access img {
+    width: 700px;
+    margin-top: 60px;
+  }
+
+  .cards {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+  }
+
+  .card {
+    max-width: 300px;
+  }
+
+  .card img {
+    margin-bottom: 30px;
+  }
+
+  .companies {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 80px;
+    opacity: .9;
+  }
+
+  footer {
+    background: #f5f6f8;
+    padding: 60px 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  .foot-logo {
+    width: 50px;
+  }
+
+  .links {
+    list-style: none;
+    display: grid;
+    grid-template-columns: repeat(5, auto);
+    gap: 15px;
+    margin: 20px 0;
+  }
+
+  .links a {
+    text-decoration: none;
+    color: var(--dark);
+    font-size: 14px;
+  }
+
+  .links a:hover {
+    color: var(--cyan);
+  }
+
+  .social img {
+    width: 22px;
+    margin: 0 10px;
+    cursor: pointer;
+  }
+
+  .social img:hover {
+    filter: brightness(0) saturate(100%) invert(55%) sepia(75%) hue-rotate(130deg);
+  }
