@@ -20,7 +20,7 @@
   }
 
   .hero {
-    background: url(/images/bg-header-desktop.png) no-repeat top center/cover;
+    background: url(./images/bg-header-desktop.png) no-repeat top center/cover;
     padding: 100px 20px;
   }
 
